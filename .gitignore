@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# Static/Media files
+/media/
+staticfiles/
+
+# Secret files
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
